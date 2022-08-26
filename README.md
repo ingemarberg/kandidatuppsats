@@ -1,6 +1,6 @@
 # Kandidatuppsats
 
-This repository contains the LaTeX source code for my BA thesis in Japanese Studies at Lund University. The thesis itself is published under a CC BY-SA 4.0 license. Full-text access will eventually be provided by DiVA and LUP Student Papers.
+This repository contains the LaTeX source code for my BA thesis in Japanese Studies at Lund University. The thesis itself is published under a CC BY-SA 4.0 license. Full-text access is provided by [LUP Student Papers](https://www.lu.se/lup/publication/9096766).
 
 ## Sammandrag
 
